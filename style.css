@@ -1,0 +1,17 @@
+body{
+    background: radial-gradient(circle, hsla(55, 94%, 51%, 1) 0%, hsla(322, 90%, 48%, 1) 100%);
+}
+
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+.name_of_the_objects, #object_name, #accuracy{
+    font: size 20px;
+    color: #B91A8F;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+}
+
